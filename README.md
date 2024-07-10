@@ -1,54 +1,8 @@
 ### Hi there, I'm Mohammad Amin Saeedi Rad 👋
 <img src ='https://github-readme-stats.vercel.app/api?username=zahraabbaspour&show_icons=true&theme=highcontrast' />
 <img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=zahraabbaspour&hide_progress=true'/>
-
-- This **Text** Is Bold
-- This __Text__ Is Bold
-- This *Text* Is Bold
-- This _Text_ Is Bold
-- This ***Text*** Is Bold
-- This ___Text___ Is Bold
-
--------
-
-> I am `Mern Stack` Developer
->> I Develop Sabzlearn Backend
-
-----------------
-
-```diff
-- const login = () => true
-
-+ const login = () => jwtToken
-```
-
----
-
-<ul>
-  <li>FrontEnd
-    <ul>
-      <li>Js</li>
-      <li>React</li>
-      <li>Vue</li>
-      <li>Ts</li>
-    </ul>
-  </li>
-   <li>Backend</li>
-   <li>DevOps</li>
-</ul>
-
------
-
-1. FrontEnd
-   1. Js
-   2. React
-   3. Vue
-   4. Ts
-   5. Npm
-2. Backend
-3. DevOps
-
-------
+ Hi, I'm Mohammad Amin Saeedi Rad! (Mern Stack Developer)
+### A little more about me... ```javascript const thai = { pronouns: "He" | "him", langs: [Javascript, Typescript, HTML, CSS], tools: [ React, Redux, Node, Next, Tailwind, Storybook, Styled - Components, Jest, Docker, ], architecture: ["Microservices", "event-driven", "design system pattern"], techCommunities: { coorganizer: "AfroPython", speaker: "Latinity", mentor: "EducaTRANSforma", }, challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript", }; ``` ```php [ 'company' => 'Sabzlearn', 'position' => 'FrontEnd' ] ]; } public function getDailyKnowledge(): array { return [ Php::class, Javascript::class, Laravel::class, Reactjs::class, ReactNative::class, TailwindCss::class, Aws::class, ]; } public function getFutureGoal(): string { return 'To contribute to open source.'; } } `
 
 # Tables
 | Front End | Back End | Col 3|
