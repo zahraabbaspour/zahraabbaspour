@@ -24,7 +24,7 @@ const person = {
 👾🤞With the technologies I work with
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,docker,laravel,php,nodejs,npm,regex,postman" />
+    <img src="https://skillicons.dev/icons?i=git,js,docker,laravel,php,nodejs,npm,regex,postman,redis" />
   </a>
 </p>
 
