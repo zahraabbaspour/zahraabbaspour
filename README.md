@@ -17,7 +17,7 @@ const person = {
  
 🤓🤜Currently, I am working in Novararan Knowledge Systems Company
 
-👽🧠I can help you in Laravel projects.
+👽🧠I can help you in Laravel projects & Node.js projects .
 
 ❤️‍🔥👩‍💻**I enjoy solving problems and challenges that others fear**
 ----------
