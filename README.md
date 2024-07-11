@@ -13,7 +13,8 @@ const person = {
     remote_work : "true"
 };
 ```
-
+🌐😊  You can ask me about slow technologies
+ 
 🤓🤜Currently, I am working in Novararan Knowledge Systems Company
 
 👽🧠I can help you in Laravel projects.
