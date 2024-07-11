@@ -21,7 +21,7 @@ const person = {
 ❤️‍🔥👩‍💻**I enjoy solving problems and challenges that others fear**
 ----------
 
-👾🤞With the technologies I work with
+👾🤞The technologies I work with
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,docker,laravel,php,nodejs,npm,regex,postman,redis" />
