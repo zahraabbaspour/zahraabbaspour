@@ -13,7 +13,7 @@ const person = {
     remote_work : "true"
 };
 ```
-🌐😊  You can ask me about slow technologies
+🌐😊  You can ask me about backend site technologies
  
 🤓🤜Currently, I am working in Novararan Knowledge Systems Company
 
