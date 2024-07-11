@@ -1,6 +1,6 @@
 🌟About Me:
 -------------------------
-### Hi there👋, I'm Zahra Abbaspour 🦹‍♀️
+### Hi there👋, I'm Zahra Abbaspour 😎  
 ```javascript
 const person = {
     gender : "female" ,
